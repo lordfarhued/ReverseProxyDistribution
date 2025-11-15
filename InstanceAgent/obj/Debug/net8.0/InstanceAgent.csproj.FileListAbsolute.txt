@@ -1,0 +1,5 @@
+C:\Users\egune\source\repos\ReverseProxyDistribution\ReverseProxyDistribution\InstanceAgent\obj\Debug\net8.0\InstanceAgent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\egune\source\repos\ReverseProxyDistribution\ReverseProxyDistribution\InstanceAgent\obj\Debug\net8.0\InstanceAgent.AssemblyInfoInputs.cache
+C:\Users\egune\source\repos\ReverseProxyDistribution\ReverseProxyDistribution\InstanceAgent\obj\Debug\net8.0\InstanceAgent.AssemblyInfo.cs
+C:\Users\egune\source\repos\ReverseProxyDistribution\ReverseProxyDistribution\InstanceAgent\obj\Debug\net8.0\InstanceAgent.csproj.CoreCompileInputs.cache
+C:\Users\egune\source\repos\ReverseProxyDistribution\ReverseProxyDistribution\InstanceAgent\obj\Debug\net8.0\InstanceAgent.csproj.AssemblyReference.cache
